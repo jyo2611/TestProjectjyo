@@ -7,6 +7,8 @@ public class Class1
 	   {
 	        System.out.println("This is sample other git project");
 	        System.out.println("This is git project");
-       
+	        System.out.println("This is sample other git project");
+	        System.out.println("This is git project");
+
 	}
 }
